@@ -1,6 +1,6 @@
 /*
  * Project: StampsSJFL
- * File: StampsSJFL.c (Program that simulates Shortest-Job_First/SJFL Algorithm).
+ * File: StampsSJFL.c (Program that simulates Shortest-Job First/SJFL Algorithm).
  *
  *  Created on: November 30, 2019
  *  Author: Joshua Stamps
